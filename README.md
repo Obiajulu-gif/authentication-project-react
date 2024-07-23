@@ -2,7 +2,7 @@
 
 This project is a React application that demonstrates the implementation of authentication and authorization. It uses Vite as the build tool for a fast development experience and includes a minimal setup with Hot Module Replacement (HMR) and **Firebase** for the backend.
 
-## link
+## Link
 
 [Authentication-project](https://authentication-project-react.onrender.com)
 
