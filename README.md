@@ -4,7 +4,7 @@ This project is a React application that demonstrates the implementation of auth
 
 ## link
 
-[Authentication-projec](https://authentication-project-react.onrender.com)
+[Authentication-project](https://authentication-project-react.onrender.com)
 
 ## Features
 
